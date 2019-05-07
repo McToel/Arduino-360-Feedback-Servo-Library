@@ -16,7 +16,7 @@ double Position;
 
 void loop()
 {
-  //Set the servo to 270°, like you could do with the standart servo library
+  //Set the servo to 270°, like you could do with the standard servo library
   FS.write_pos(270);
   delay(100);
 
