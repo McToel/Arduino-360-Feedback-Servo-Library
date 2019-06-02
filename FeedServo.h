@@ -7,7 +7,7 @@ class FeedServo : public Servo
 {
   public:
 #define dcMin 2.9
-#define dcMax 91.7
+#define dcMax 97.1
 #define s_stop 95
 #define Kp 1
 
